@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lobster_tworegular';
+    src: url('lobstertwo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'lobster_tworegular';
+  background: url('./icon-url.png');
+}
