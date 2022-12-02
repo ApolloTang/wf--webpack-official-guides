@@ -8,9 +8,10 @@ module.exports = {
   entry: {
     index: './src/index.js',
     // --- [NOTE] ---
-    //    hot and client entry in not necessary.
+    //    hot and client entry is no longer required. See:
+    //    https://github.com/webpack/webpack-dev-server/blob/0002ebfbc8f36e92f91013372c9e2bca97022825/migration-v4.md#before-updating
     //
-    // hot: 'webpack/hot/dev-server.js',                                       // Runtime code for hot module replacement
+    // hot: 'webpack/hot/dev-server',                                          // Runtime code for hot module replacement
     // client: 'webpack-dev-server/client/index.js?hot=true&live-reload=true', // Dev server client for web socket transport, hot and live reload logic
   },
   devtool: 'inline-source-map',
@@ -28,7 +29,11 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: 'Development',
     }),
-    new webpack.HotModuleReplacementPlugin(), // Plugin for hot module replacement
+    // --- [NOTE] ---
+    //    "new webpack.HotModuleReplacementPlugin()" is no longer requried. See:
+    //    https://github.com/webpack/webpack-dev-server/blob/0002ebfbc8f36e92f91013372c9e2bca97022825/migration-v4.md#before-updating
+    //
+    // new webpack.HotModuleReplacementPlugin(), // Plugin for hot module replacement
   ],
   output: {
     filename: "[name].bundle.js",
