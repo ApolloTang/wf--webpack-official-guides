@@ -1,5 +1,4 @@
-const path = require('path');
-
+```js
 module.exports = {
   mode: 'development',
   entry: {
@@ -38,5 +37,5 @@ module.exports = {
     runtimeChunk: 'single',
   },
 };
-
+```
 
