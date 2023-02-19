@@ -1,0 +1,1094 @@
+{
+  "hash": "b0496d54d5eaaa72a50d",
+  "version": "5.74.0",
+  "time": 248,
+  "builtAt": 1676818641163,
+  "publicPath": "auto",
+  "outputPath": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/dist",
+  "assetsByChunkName": {
+    "index": [
+      "index.bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "index.bundle.js",
+      "size": 570075,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 570075
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "index"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 547367,
+      "sizes": {
+        "javascript": 544945,
+        "runtime": 2422
+      },
+      "names": [
+        "index"
+      ],
+      "idHints": [],
+      "runtime": [
+        "index"
+      ],
+      "files": [
+        "index.bundle.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "14cffd5f5db3bfb03d6c",
+      "childrenByOrder": {},
+      "id": "index",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 544098,
+          "sizes": {
+            "javascript": 544098
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "name": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "issuerId": "./src/index.js",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:50-57",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:62-78",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:82-89",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:63-69",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:74-80",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:93-99",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "17209:7-11",
+              "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "1:0-23",
+              "moduleId": "./src/index.js",
+              "resolvedModuleId": "./src/index.js"
+            },
+            {
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "import()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "4:9-25",
+              "moduleId": "./src/index.js",
+              "resolvedModuleId": "./src/index.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: this is used directly at 17209:7-11",
+            "CommonJS bailout: exports is used directly at 439:50-57",
+            "CommonJS bailout: exports is used directly at 439:82-89"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 847,
+          "sizes": {
+            "javascript": 847
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "name": "./src/index.js",
+          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src/index.js",
+          "issuerId": null,
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src/index.js",
+              "loc": "index",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 1141,
+          "sizes": {
+            "runtime": 1141
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/create fake namespace object",
+          "name": "webpack/runtime/create fake namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 274,
+          "sizes": {
+            "runtime": 274
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 123,
+          "sizes": {
+            "runtime": 123
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/node module decorator",
+          "name": "webpack/runtime/node module decorator",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "index"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "index",
+          "request": "./src/index.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 847,
+      "sizes": {
+        "javascript": 847
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "name": "./src/index.js",
+      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src/index.js",
+      "issuerId": null,
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src/index.js",
+          "loc": "index",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "name": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "issuerId": "./src/index.js",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:50-57",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:62-78",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:82-89",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:63-69",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:74-80",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:93-99",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "17209:7-11",
+          "moduleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "1:0-23",
+          "moduleId": "./src/index.js",
+          "resolvedModuleId": "./src/index.js"
+        },
+        {
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "import()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "4:9-25",
+          "moduleId": "./src/index.js",
+          "resolvedModuleId": "./src/index.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: this is used directly at 17209:7-11",
+        "CommonJS bailout: exports is used directly at 439:50-57",
+        "CommonJS bailout: exports is used directly at 439:82-89"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 1141,
+      "sizes": {
+        "runtime": 1141
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/create fake namespace object",
+      "name": "webpack/runtime/create fake namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 123,
+      "sizes": {
+        "runtime": 123
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/node module decorator",
+      "name": "webpack/runtime/node module decorator",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "index"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        "index"
+      ],
+      "assets": [
+        {
+          "name": "index.bundle.js",
+          "size": 570075
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 570075,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        "index"
+      ],
+      "assets": [
+        {
+          "name": "index.bundle.js",
+          "size": 570075
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 570075,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": []
+}
