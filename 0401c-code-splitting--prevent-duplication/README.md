@@ -39,3 +39,16 @@ module.exports = {
 };
 ```
 
+
+
+
+
+- All (**561.45 KB**)
+- shared.bundle.js (**550.25 KB**)
+- runtime.bundle.js (**7.6 KB**)
+- index.bundle.js (**1.86 KB**)
+- another.bundle.js (**1.73 KB**)
+
+
+
+![bundle-analyse.png](./bundle-analyse.png)

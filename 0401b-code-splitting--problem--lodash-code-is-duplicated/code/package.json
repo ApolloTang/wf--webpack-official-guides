@@ -15,6 +15,7 @@
   "autherEmail": "tang.apollo@gmail.com",
   "devDependencies": {
     "webpack": "^5.74.0",
+    "webpack-bundle-analyzer": "^4.8.0",
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
