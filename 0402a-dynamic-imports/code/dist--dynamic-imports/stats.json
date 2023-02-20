@@ -1,10 +1,10 @@
 {
   "hash": "b0496d54d5eaaa72a50d",
   "version": "5.74.0",
-  "time": 248,
-  "builtAt": 1676818641163,
+  "time": 210,
+  "builtAt": 1676913607734,
   "publicPath": "auto",
-  "outputPath": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/dist",
+  "outputPath": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/dist",
   "assetsByChunkName": {
     "index": [
       "index.bundle.js"
@@ -15,8 +15,8 @@
       "type": "asset",
       "name": "index.bundle.js",
       "size": 570075,
-      "emitted": true,
-      "comparedForEmit": false,
+      "emitted": false,
+      "comparedForEmit": true,
       "cached": false,
       "info": {
         "javascriptModule": false,
@@ -77,9 +77,9 @@
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "name": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 0,
@@ -88,11 +88,11 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "issuerName": "./src/index.js",
           "issuerPath": [
             {
-              "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
               "name": "./src/index.js",
               "id": "./src/index.js"
             }
@@ -108,10 +108,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -122,10 +122,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -136,10 +136,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -150,10 +150,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "module decorator",
               "active": true,
@@ -164,10 +164,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "module decorator",
               "active": true,
@@ -178,10 +178,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "module decorator",
               "active": true,
@@ -192,10 +192,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -206,10 +206,10 @@
               "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
               "module": "./src/index.js",
               "moduleName": "./src/index.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
               "resolvedModule": "./src/index.js",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -220,10 +220,10 @@
               "resolvedModuleId": "./src/index.js"
             },
             {
-              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
               "module": "./src/index.js",
               "moduleName": "./src/index.js",
-              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+              "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
               "resolvedModule": "./src/index.js",
               "type": "import()",
               "active": true,
@@ -255,9 +255,9 @@
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "name": "./src/index.js",
-          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 1,
@@ -576,9 +576,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
       "name": "./src/index.js",
-      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
       "index": 0,
       "preOrderIndex": 0,
       "index2": 1,
@@ -631,9 +631,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
       "name": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+      "nameForCondition": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
       "index": 1,
       "preOrderIndex": 1,
       "index2": 0,
@@ -641,11 +641,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+      "issuer": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
       "issuerName": "./src/index.js",
       "issuerPath": [
         {
-          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "identifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "name": "./src/index.js",
           "id": "./src/index.js"
         }
@@ -661,10 +661,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -675,10 +675,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -689,10 +689,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -703,10 +703,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "module decorator",
           "active": true,
@@ -717,10 +717,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "module decorator",
           "active": true,
@@ -731,10 +731,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "module decorator",
           "active": true,
@@ -745,10 +745,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "module": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "moduleName": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "resolvedModule": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -759,10 +759,10 @@
           "resolvedModuleId": "./node_modules/.pnpm/lodash@4.17.21/node_modules/lodash/lodash.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "module": "./src/index.js",
           "moduleName": "./src/index.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "resolvedModule": "./src/index.js",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -773,10 +773,10 @@
           "resolvedModuleId": "./src/index.js"
         },
         {
-          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "moduleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "module": "./src/index.js",
           "moduleName": "./src/index.js",
-          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports/code/src/index.js",
+          "resolvedModuleIdentifier": "/Users/apollotang/1/1-a/10-web/_subject/bundler/webpack/webpack5/webpack-official-guide/wf--webpack-official-guides/0402a-dynamic-imports-(wip)/code/src/index.js",
           "resolvedModule": "./src/index.js",
           "type": "import()",
           "active": true,
