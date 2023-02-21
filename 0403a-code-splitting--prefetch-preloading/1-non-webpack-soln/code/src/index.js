@@ -34,6 +34,12 @@ button.addEventListener('click', e => {
   });
 })
 
+// manually add link tag for prefetch
+let link = document.createElement("link");
+link.rel="prefetch"
+link.as="script"
+link.href="script.js"
+document.head.appendChild(link);
 
 document.body.appendChild(button)
 
