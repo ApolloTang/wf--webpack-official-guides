@@ -12,11 +12,11 @@
 
 ---
 
-[<link rel="prefetch/preload"> in webpack by Tobias Koppers](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
+[\<link rel="prefetch/preload"> in webpack by Tobias Koppers](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 
 ---
 
-[mdn: <link>: The External Resource Link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
+[mdn:\<link>: The External Resource Link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
 
 [mdn: as attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#attr-as)
 
