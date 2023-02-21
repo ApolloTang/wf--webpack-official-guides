@@ -25,6 +25,13 @@ function getComponent() {
 let button = document.createElement('button')
 button.innerHTML = 'getComponent'
 button.addEventListener('click', e => {
+  //
+  // The inline preload directive `/* webpackPrefetch: true */` will inject:
+  //
+  //   <link rel="prefetch" as="script" href="http://127.0.0.1:8080/src_script_js.bundle.js">
+  //
+  // into the header.
+  //
   import(/* webpackPrefetch: true */ './script.js');
 
   getComponent().then((component) => {
